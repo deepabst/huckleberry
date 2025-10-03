@@ -1,3 +1,5 @@
+### Dee Pabst's solution to the following task from Josh Comeau's CSS for JS devs course
+
 # Huckleberry Agency Website
 
 In this workshop, you'll build a minimal landing page for an agency.
